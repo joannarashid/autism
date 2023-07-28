@@ -3,6 +3,8 @@
 Data source: The Autism and Developmental Disabilities Monitoring (ADDM) Network
 https://www.cdc.gov/ncbddd/autism/data.html
 
+![asd_prevalence](https://github.com/joannarashid/autism/blob/main/prevalence_bar_chart_US.png)
+
 Variable descriptions:
 white	Non-hispanic white
 black	Non-hispanic black
